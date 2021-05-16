@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5149514669a186f4883beba945be0710, type: 3}
+  m_Name: RockFactory
+  m_EditorClassIdentifier: 
+  prefabs:
+  - {fileID: 529373810936787368, guid: 207cdfb3379af6b4695231eb2ab016a1, type: 3}
+  - {fileID: 8242119105939746911, guid: b9eafabea5a88f248827bae05458d8c0, type: 3}
+  - {fileID: 3511837819760003015, guid: de6983ff44a8c6d4e88e6a9c60eae1c5, type: 3}
+  - {fileID: 1457194756801923385, guid: e71617d01deb9ff449fcde7843e5269c, type: 3}
+  - {fileID: 8615840100420269368, guid: 411b205e05299a047828b20556593eff, type: 3}
+  - {fileID: 1560547115206426203, guid: 9adde0de962b7934cb3c5a9d22de86fe, type: 3}
+  - {fileID: 1932779683158524400, guid: 97f0e4c3417ece040bf1584502d17a0c, type: 3}
+  - {fileID: 2463364759246057285, guid: 68ed5c9a70736c244a44bb8560fca116, type: 3}
+  - {fileID: 627446748282337810, guid: 7a5b0d5d4033d4b479cbefb2665006da, type: 3}
+  - {fileID: 5966532237488343700, guid: 54befea84f2d6614b95fd2dc6efc472f, type: 3}
