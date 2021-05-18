@@ -5,4 +5,4 @@ PVE Space Plaen Game
 ### 贝塞尔曲线实现
 ![预览图加载失败](https://github.com/linhgf/Space-Plane/blob/main/Preview/spcae_plane_2.jpg)
 ### 实现打击感
-![预览图加载失败](https://github.com/linhgf/Space-Plane/blob/main/Preview/spcae_plane_2.jpg)
+![预览图加载失败](https://github.com/linhgf/Space-Plane/blob/main/Preview/spcae_plane_3.jpg)
